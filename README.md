@@ -4,4 +4,4 @@
 > python MIDIGame.py
 
 
-![LOGO](./logo.png)
+![](Logo.png)
